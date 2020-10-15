@@ -10,6 +10,6 @@
 
 ## Output
 
-![Output of program](https://raw.githubusercontent.com/alim-ansari/flappy-bird-ml/master/gameplay.png)
+![Output of program](https://raw.githubusercontent.com/alim-ansari/flappy-bird-ml/master/flappy-bird-output.gif)
 
 
