@@ -1,0 +1,11 @@
+Summary
+
+flappy bird game is actually made using deep reinforcement machine learning.
+
+This game is made with neuroevolution javascript library and it is reponsible for creating neural networks and generations. 
+
+The algorithm is to calculate distance between pipes and birds and to escape in between pipes and then selecting best performing models in the next generations. As generations goes on the birds actually train themselves to escape all orientation of pipes. 
+
+The entire game is designed in pure vanilla javascript and html canvas. It is simple and easy to run even for novice. Also buttons are made to monitor the flow of game with speed change.
+
+In short, a simple and lean machine learning application via this game flappy bird.
